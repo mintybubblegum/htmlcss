@@ -1,0 +1,20 @@
+.changeStyleHeader {
+    background-color: blue;
+    text-align: center;
+}
+
+.changeStyleMain {
+    background-color: orange;
+}
+
+.changeStyleFooter {
+    background-color: blueviolet;
+}
+
+.fotoCat {
+    width: 30%;
+}
+
+.boxImgCat {
+    text-align: center;
+}
